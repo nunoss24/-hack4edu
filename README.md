@@ -12,6 +12,6 @@ Personalização da Aprendizagem: Cada aluno pode criar o seu próprio percurso 
 Melhoria da Eficiência: Otimiza o uso do tempo de estudo, reduzindo a fadiga e maximizando a aprendizagem.
 Redução da Desigualdade Educacional: Democratiza o acesso à educação de qualidade, garantindo que todos possam beneficiar de aprendizagem personalizada.
 # Instalação e Utilização
-Clone este repositório.
-Execute 'npm install' em ambas as pastas, backend e frontend, para installar node_modules.
-Execute 'npm start' no frontend e 'npm run dev' no backend para iniciar o "StudyMentor".
+1. Clone este repositório.
+2. Execute 'npm install' em ambas as pastas, backend e frontend, para installar node_modules.
+3. Execute 'npm start' no frontend e 'npm run dev' no backend para iniciar o "StudyMentor".
