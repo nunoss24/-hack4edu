@@ -15,3 +15,4 @@ Redução da Desigualdade Educacional: Democratiza o acesso à educação de qua
 1. Clone este repositório.
 2. Execute 'npm install' em ambas as pastas, backend e frontend, para installar node_modules.
 3. Execute 'npm start' no frontend e 'npm run dev' no backend para iniciar o "StudyMentor".
+4. Crie um ficheiro .env na parte do servidor e adicione  o seu token de chatgpt
